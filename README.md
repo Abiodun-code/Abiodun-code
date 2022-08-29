@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abiodun-code
-- 👀 I’m interested in Software Development front-end and back-end
-- 🌱 I’m currently working with Mern{MongoDB, Express, React and Node}
+- 👀 I’m interested in Software Development front-end and Mobile developer
+- 🌱 I’m currently working with React
 - 🌱 Looking forward to learn Flutter
 - 💞️ I’m looking to collaborate on Work
 - 📫 How to reach me gmail: olaabiodun157@gmail.com
@@ -11,6 +11,6 @@
 - 📫 Website: https://abiodun-microapp-123.netlify.app/
 - 📫 Website: https://abiodun-timenow-123.netlify.app/
 <!---
-Abiodun-code/Abiodun-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Junior Software Developer/Engineer with 1/2 Year Experience in Information Technology with Experience in Building real world Project and Solving world Problem in I.T world.
+Experience: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS.
 --->
