@@ -11,6 +11,6 @@
 - 📫 Website: https://abiodun-microapp-123.netlify.app/
 - 📫 Website: https://abiodun-timenow-123.netlify.app/
 <!---
-Junior Software Developer/Engineer with 1/2 Year Experience in Information Technology with Experience in Building real world Project and Solving world Problem in I.T world.
-Experience: HTML, CSS, JavaScript, React, Bootstrap, Tailwind CSS.
+I'm a Junior Software and Mobile Developer with Experience in Information Technology with Experience in Building real world Project and Solving world Problem in I.T world, am looking for a challenging opportunity that will enable me to use my skills and abilities to achieve a challenging goal.
+Experience: HTML, CSS, JavaScript, React, Flutter, Bootstrap, Tailwind CSS.
 --->
