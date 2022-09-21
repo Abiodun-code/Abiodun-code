@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abiodun-code
 - 👀 I’m interested in Software Development front-end and Mobile developer
-- 🌱 I’m currently working with React
+- 🌱 I’m currently working with React, Testing Library, Jestjs
 - 🌱 Looking forward to learn Flutter
 - 💞️ I’m looking to collaborate on Work
 - 📫 How to reach me gmail: olaabiodun157@gmail.com
@@ -9,5 +9,4 @@
 - 📫 Website: https://abiodun-appwind-123.netlify.app/
 <!---
 I'm a Junior Software and Mobile Developer with Experience in Information Technology with Experience in Building real world Project and Solving world Problem in I.T world, am looking for a challenging opportunity that will enable me to use my skills and abilities to achieve a challenging goal.
-Experience: HTML, CSS, JavaScript, React, Flutter, Bootstrap, Tailwind CSS.
 --->
