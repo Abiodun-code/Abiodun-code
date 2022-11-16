@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abiodun-code
 - 👀 I’m interested in Software Development front-end and Mobile developer
-- 🌱 I’m currently working with React, TailWindCSS Testing Library, Jestjs
+- 🌱 I’m currently working with React, TailWindCSS, Testing Library, Jestjs
 - 🌱 Looking forward to learn Flutter
 - 💞️ I’m looking to collaborate on Work
 - 📫 How to reach me gmail: olaabiodun157@gmail.com
