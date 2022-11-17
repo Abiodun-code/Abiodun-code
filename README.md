@@ -17,7 +17,7 @@ I'm a Junior Software and Mobile Engineer with Experience in Information Technol
 
 ⚡️ Fun fact: Reading, Learning and Playing Game
 ## 🛠 Skills
-![HTML](https://www.pngegg.com/en/png-nxotz)
+![css]([https://www.pngegg.com/en/png-nxotz](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg))
 ![dart](https://dart.dev/assets/img/shared/dart/logo+text/horizontal/white.svg)
 ## Tech Stack
 **Framework/Library:** ![react](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9Ii0xMS41IC0xMC4yMzE3NCAyMyAyMC40NjM0OCI+CiAgPHRpdGxlPlJlYWN0IExvZ288L3RpdGxlPgogIDxjaXJjbGUgY3g9IjAiIGN5PSIwIiByPSIyLjA1IiBmaWxsPSIjNjFkYWZiIi8+CiAgPGcgc3Ryb2tlPSIjNjFkYWZiIiBzdHJva2Utd2lkdGg9IjEiIGZpbGw9Im5vbmUiPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIi8+CiAgICA8ZWxsaXBzZSByeD0iMTEiIHJ5PSI0LjIiIHRyYW5zZm9ybT0icm90YXRlKDYwKSIvPgogICAgPGVsbGlwc2Ugcng9IjExIiByeT0iNC4yIiB0cmFuc2Zvcm09InJvdGF0ZSgxMjApIi8+CiAgPC9nPgo8L3N2Zz4K)
