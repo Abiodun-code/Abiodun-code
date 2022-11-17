@@ -4,7 +4,7 @@
 - 🌱 Looking forward to learn Flutter
 - 💞️ I’m looking to collaborate on Work
 - 📫 How to reach me gmail: olaabiodun157@gmail.com
-- 📫 ![Screenshot]([instagramIcon.png](https://www.linkedin.com/in/olaroungbe-jamiu-1125b2225/))
+- 📫 ![https://www.linkedin.com/feed/?nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BJsQmW7KLTyeI6ZI7A3HTJQ%3D%3D]([instagramIcon.png](https://www.linkedin.com/in/olaroungbe-jamiu-1125b2225/))
 - 📫 Website: https://abiodun-code.github.io/blogrs/
 - 📫 Website: https://abiodun-appwind-123.netlify.app/
 - 📫 Website: https://abiodun-resume-123.netlify.app/
