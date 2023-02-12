@@ -1,11 +1,11 @@
 
 # Hi, I'm Abiodun-Code! 👋
 
-I'm a Junior Software and Mobile Engineer with Experience in Information Technology with Experience in Building real world Project and Solving world Problem in I.T world, am looking for a challenging opportunity that will enable me to use my skills and abilities to achieve a challenging goal.
+I am a Software Engineer with experience in Information Technology and building real-world projects and solving problems in the IT world. I am looking for a challenging opportunity that will enable me to use my skills and abilities to achieve a challenging goal.
 ## Other Github Profile Sections
 👩‍💻 I’m currently working with React, TypeScript, TailWindCSS
 
-🧠 Looking forward to learn Flutter
+🧠 Looking forward to learn React Native
 
 👯‍♀️ I'm interested to collaborate on work
 
