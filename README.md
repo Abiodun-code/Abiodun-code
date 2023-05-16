@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abiodun-code</h1>
 <h3 align="center">Am a qualify focused software engineer with experience in information technology, building real world project and solving technical problem in the IT world.</h3>
-<img align="center" width="400" alt="coding" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
+<img align="center" width="1000" alt="coding" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiodun-code&label=Profile%20views&color=0e75b6&style=flat" alt="abiodun-code" /> </p>
 
