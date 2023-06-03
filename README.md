@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abiodun-code</h1>
 <h3 align="center">Am a qualify Software engineer with experience in the tech domain industry.
-Proving ability to design, develop, and test software applications. Strong problemsolving and analytical skills.</h3>
+Proving ability to design, develop, and test software applications. Strong problem solving and analytical skills.</h3>
 <img align="center" width="1000" alt="coding" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiodun-code&label=Profile%20views&color=0e75b6&style=flat" alt="abiodun-code" /> </p>
@@ -13,7 +13,7 @@ Proving ability to design, develop, and test software applications. Strong probl
 
 - 👨‍💻 All of my projects are available at [https://abiodun-autumn.netlify.app/](https://abiodun-autumn.netlify.app/)
 
-- 💬 Ask me about **react, tailwind, express, typescript, javascript and node**
+- 💬 Ask me about **react, react native, tailwind, express, typescript, javascript and node**
 
 - 📫 How to reach me **olaabiodun157@gmail.com**
 
