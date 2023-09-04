@@ -9,8 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/olaroungbe_j" target="blank"><img src="https://img.shields.io/twitter/follow/olaroungbe_j?logo=twitter&style=for-the-badge" alt="olaroungbe_j" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://abiodun-autumn.netlify.app/](https://abiodun-autumn.netlify.app/)
-
 - 💬 Ask me about **Web and Mobile**
 
 - 📫 How to reach me **olaabiodun157@gmail.com**
