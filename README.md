@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abiodun-code</h1>
 <h3 align="center">Web and Mobile Software engineer</h3>
 
-<img align="center" width="1000" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="center" width="500" alt="coding" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiodun-code&label=Profile%20views&color=0e75b6&style=flat" alt="abiodun-code" /> </p>
 
