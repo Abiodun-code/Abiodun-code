@@ -1,9 +1,8 @@
 <h1 align="left">Hi 👋, I'm Abiodun-code</h1>
-<h6 align="left">I'm a Passionate, Full stack Web and Cross Mobile Platform Developer</h6>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiodun-code&label=Profile%20views&color=0e75b6&style=flat" alt="abiodun-code" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiodun-code&no-frame=true" alt="abiodun-code" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiodun-code&theme=onestar" alt="abiodun-code" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://olaroungbe.netlify.app/](https://olaroungbe.netlify.app/)
 
