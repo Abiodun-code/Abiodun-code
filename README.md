@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://olaroungbe.netlify.app/](https://olaroungbe.netlify.app/)
 
-- 📫 How to reach me **olaabiodun157@gmail.com**
+- 📫 How to reach me **olaroungbejamiu@gmail.com**
 
 - ⚡ Fun fact **I like doing things that make's me to be productive.**
 
