@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **olaroungbejamiu@gmail.com**
 
-- ⚡ Fun fact **I like doing things that make's me to be productive.**
+- ⚡ Fun fact *I like doing things that make's me to be productive 💪🏽.*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
