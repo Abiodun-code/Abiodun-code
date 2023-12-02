@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiodun-code&label=Profile%20views&color=0e75b6&style=flat" alt="abiodun-code" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiodun-code" alt="abiodun-code" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/olaroungbe_j" target="blank"><img src="https://img.shields.io/twitter/follow/olaroungbe_j?logo=twitter&style=for-the-badge" alt="olaroungbe_j" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://olaroungbe.netlify.app/](https://olaroungbe.netlify.app/)
