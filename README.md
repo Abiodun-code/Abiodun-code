@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Abiodun-code</h1>
+<h1 align="center">Hi 👋, I'm Abiodun-code</h1>
 <h3 align="left">I'm a full stack software developer with experience in building high scalable User interface website, Application development and creating client server API 🛡️💻⌨️🖱️.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiodun-code" alt="abiodun-code" /></a> </p>
