@@ -92,6 +92,9 @@
 
 ###
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiodun-code&show_icons=true&locale=en&layout=compact" alt="abiodun-code" /></p>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abiodun-code&show_icons=true&locale=en" alt="abiodun-code" /></p>
 
-###
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abiodun-code&" alt="abiodun-code" /></p>
+
