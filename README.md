@@ -83,10 +83,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Abiodun-code/Abiodun-code/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/Abiodun-code/count.svg?"  />
 </div>
