@@ -2,7 +2,14 @@
 
 ###
 
-<h4 align="left">I'm a full stack software developer with experience in building high scalable User interface website, Application development and creating client server API 🛡️💻⌨️🖱️.</h4>
+<h3 align="left">I'm a full stack software developer with experience in building high scalable User interface website, Application development and creating client server API 🛡️💻⌨️🖱️.</h3>
+
+- 👨‍💻 All of my projects are available at [https://github.com/Abiodun-code?tab=repositories](https://github.com/Abiodun-code?tab=repositories)
+
+- 📫 How to reach me **olaroungbejamiu@gmail.com**
+
+- ⚡ Fun fact **I learn, write, design and build web and mobile application.**
+
 
 ###
 
