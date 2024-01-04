@@ -14,7 +14,7 @@
 
 - 📫 How to reach me: **olaroungbejamiu@gmail.com**
 
-- <h6>⚡ learning and staying updated with the latest industry trends and technologies, I am committed to delivering high-quality, efficient, and scalable solutions. I value clean code, effective problem-solving, and continuous improvement in my development practices.<h6>
+- <h4>⚡ learning and staying updated with the latest industry trends and technologies, I am committed to delivering high-quality, efficient, and scalable solutions. I value clean code, effective problem-solving, and continuous improvement in my development practices.<h4>
 
 ###
 
