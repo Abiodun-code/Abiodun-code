@@ -10,11 +10,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abiodun-code" alt="abiodun-code" /></a> </p>
 
 ###
-- 👨‍💻 All of my projects are available at [https://github.com/Abiodun-code?tab=repositories](https://github.com/Abiodun-code?tab=repositories)
+- 👨‍💻 All of my projects are available at: [https://github.com/Abiodun-code?tab=repositories](https://github.com/Abiodun-code?tab=repositories)
 
-- 📫 How to reach me **olaroungbejamiu@gmail.com**
+- 📫 How to reach me: **olaroungbejamiu@gmail.com**
 
-- ⚡ Fun fact *learning and staying updated with the latest industry trends and technologies, I am committed to delivering high-quality, efficient, and scalable solutions. I value clean code, effective problem-solving, and continuous improvement in my development practices.*
+- ⚡ Fun fact: *learning and staying updated with the latest industry trends and technologies, I am committed to delivering high-quality, efficient, and scalable solutions. I value clean code, effective problem-solving, and continuous improvement in my development practices.*
 
 ###
 
