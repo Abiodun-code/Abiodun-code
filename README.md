@@ -14,8 +14,7 @@
 
 - 📫 How to reach me **olaroungbejamiu@gmail.com**
 
-- ⚡ Fun fact **I learn, write, design and build web and mobile application.**
-
+- ⚡ Fun fact <p>learning and staying updated with the latest industry trends and technologies, I am committed to delivering high-quality, efficient, and scalable solutions. I value clean code, effective problem-solving, and continuous improvement in my development practices.<p>
 
 ###
 
