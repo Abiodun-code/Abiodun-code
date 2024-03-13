@@ -90,6 +90,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abiodun-code&" alt="abiodun-code" /></p>
 
-<!--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-->
-<!--git remote set-url origin https://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@github.com/Abiodun-code/googleAuth-->
-<!--git clone https://Avanah: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@github.com/Avanah/Avanah-Application-->
+<!--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-->
+<!--git remote set-url origin https://Abiodun-code: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@github.com/Abiodun-code/me-readme-->
+<!--git clone https://Avanah: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@github.com/Avanah/Avanah-Application-->
